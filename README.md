@@ -25,10 +25,12 @@ The website includes a Contact Form with JavaScript validation, LocalStorage sup
 - Submissions
 
 ## 📸 Preview
-(Add screenshots of your project here)
+<img width="1600" height="720" alt="WhatsApp Image 2026-07-10 at 1 02 51 PM (1)" src="https://github.com/user-attachments/assets/37338c87-53e6-49c3-89ad-baee8f7823d6" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-07-10 at 1 02 51 PM" src="https://github.com/user-attachments/assets/e29d0613-4d77-4075-8840-199acf1c416b" />
+
 
 ## 👨‍💻 Author
-Ritik Padey
+Ritik Raj Pandey
 
 ## 📢 Note
 This project was created for the Maincrafts Full Stack Web Development Internship – Task 3.
